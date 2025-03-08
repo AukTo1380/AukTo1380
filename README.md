@@ -1,4 +1,4 @@
-<img src="Developer activity-amico.png" alt="GitHub Banner" width="100%" hight="3000x"/>
+
 
 Hello World! I'm Hussain, an Afghan Web Developer 👋🏼
 Welcome to my profile! I'm a passionate web developer with a deep interest in both frontend and backend development. Here's a little more about me:
