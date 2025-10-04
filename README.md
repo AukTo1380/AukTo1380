@@ -1,6 +1,6 @@
 
 
-Hello World! I'm Hussain, an Afghan Web Developer 👋🏼
+  Hello World! I'm Hussain, an Afghan Software Engineer passionate about building scalable, efficient, and user-friendly applications.👋🏼
 Welcome to my profile! I'm a passionate web developer with a deep interest in both frontend and backend development. Here's a little more about me:
 
 🛜 Currently Working On: I am actively building and enhancing my personal webpage, Tamadon Printing Press, where I showcase my portfolio and services.<br> 👨🏼‍🎓 Education: I am pursuing a degree in Media-Based Computer Science at Kabul Polytechnic University (KBU). The program helps me explore the intersection of technology and media.<br> 👨🏼‍💻 Experience: I have been working as a web developer since 2022, focusing on building interactive websites, web applications, and creating beautiful user interfaces.<br> 🎬 New Projects: I recently started a creative venture called AukTo1380, where I aim to combine my web development skills with innovative media and technology.<br>
